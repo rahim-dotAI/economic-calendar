@@ -16,5 +16,32 @@
     "actual": "",
     "forecast": "",
     "previous": "0%"
+  },
+  {
+    "economy": "JPY",
+    "impact": 3,
+    "data": "2025-08-25 02:00:00",
+    "name": "BoJ Rate Decision",
+    "actual": "",
+    "forecast": "",
+    "previous": "-0.1%"
+  },
+  {
+    "economy": "GBP",
+    "impact": 2,
+    "data": "2025-08-26 09:30:00",
+    "name": "UK GDP",
+    "actual": "",
+    "forecast": "",
+    "previous": "0.2%"
+  },
+  {
+    "economy": "AUD",
+    "impact": 1,
+    "data": "2025-08-27 01:30:00",
+    "name": "RBA Cash Rate",
+    "actual": "",
+    "forecast": "",
+    "previous": "4.1%"
   }
 ]
