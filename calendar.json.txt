@@ -1,0 +1,20 @@
+[
+  {
+    "economy": "USD",
+    "impact": 2,
+    "data": "2025-08-23 14:30:00",
+    "name": "Nonfarm Payrolls",
+    "actual": "",
+    "forecast": "",
+    "previous": "187k"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2025-08-24 10:00:00",
+    "name": "ECB Interest Rate Decision",
+    "actual": "",
+    "forecast": "",
+    "previous": "0%"
+  }
+]
